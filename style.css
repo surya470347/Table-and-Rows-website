@@ -1,0 +1,113 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+h2 a
+{
+    margin-left: 10px;
+}
+h2
+{
+    text-align: center;
+}
+h2 a
+{
+   color: red;
+    text-decoration: none;
+}
+.h2 a :hover
+{
+    text-decoration: underline;
+}
+table tr,td
+{
+border: 2px solid white;
+border-collapse: collapse;
+}
+.A1
+{
+    background-color: rgb(15, 98, 98);
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    color: white;
+    font-size: 150%;
+}
+.A2
+{
+    background-color: rgb(129, 24, 24);
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    color: white;
+    font-size: 150%;
+}
+.A3
+{
+    background-color: aqua;
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    color: white;
+    font-size: 150%;
+}
+.B1
+{
+    background-color: rgb(47, 30, 199);
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    color: white;
+    font-size: 150%;
+}
+.B2
+{
+    background-color: rgb(8, 92, 50);
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    color: white;
+    font-size: 150%;
+}
+.B3
+{
+    background-color: violet;
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    color: white;
+    font-size: 150%;
+}
+.C1
+{
+    background-color: yellow;
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    color: white;
+    font-size: 150%;
+}
+.C2
+{
+    background-color: pink;
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    color: white;
+    font-size: 150%;
+}
+.C3
+{
+    background-color: orangered;
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    color: white;
+    font-size: 150%;
+}
+.main
+{
+    padding-left: 15%;
+    padding-top: 2%;
+}
